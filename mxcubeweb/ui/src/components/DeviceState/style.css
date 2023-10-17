@@ -1,0 +1,8 @@
+.device-state {
+  width: 7em;
+}
+
+.device-state .badge {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

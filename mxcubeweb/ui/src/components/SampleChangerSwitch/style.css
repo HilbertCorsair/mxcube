@@ -1,0 +1,8 @@
+.samplechanger-switch {
+  width: 7em;
+}
+
+.samplechanger-switch .badge {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

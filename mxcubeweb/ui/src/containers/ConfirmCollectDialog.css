@@ -1,0 +1,30 @@
+#collect-confirm-dialog-popover {
+  width: auto;
+  max-width: 80%;
+}
+
+.scroll tbody {
+  max-height: 500px;
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+.scroll tbody {
+}
+
+.scroll tbody td,
+.scroll thead th {
+  white-space: nowrap;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #fff;
+}
+
+.table-striped > tbody > tr:nth-of-type(even) {
+  background-color: rgba(238, 232, 170, 0.2);
+}
+
+.table-striped > tbody > tr:hover {
+  background-color: #f0f3f5;
+}
